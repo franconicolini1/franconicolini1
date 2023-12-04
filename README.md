@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Franco Nicolini
-- 👀 I’m interested in fullstack web development. I really love programing.
-- 🌱 I’m currently learning react and basics of node js.
+- 👀 I’m interested in full-stack web development. I love programming.
+- 🌱 I’m currently learning React and the basics of Nnode js.
 - 📫 My email is franconicolini111@gmail.com
